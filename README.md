@@ -23,7 +23,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. It s
 ## Screenshot
 Below are screenshots of the portfolio website:
 
-![Portfolio Screenshot 1](images/screenshot/screenshot1.png)
-![Portfolio Screenshot 2](images/screenshot/screenshot2.png)
-![Portfolio Screenshot 3](images/screenshot/screenshot3.png)
-![Portfolio Screenshot 4](images/screenshot/screenshot4.png)
+![Portfolio Screenshot 1](images/Screenshot/screenshot1.png)
+![Portfolio Screenshot 2](images/Screenshot/screenshot2.png)
+![Portfolio Screenshot 3](images/Screenshot/screenshot3.png)
+![Portfolio Screenshot 4](images/Screenshot/screenshot4.png)
